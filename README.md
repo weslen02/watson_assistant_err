@@ -16,3 +16,7 @@ Change your request to HTTPS
 ### Workaround
 If is a test (*not recommended*), but you can cancel the security from setting on Watson Assitant Web Chat integration. **PLEASE STAY THE SECURITY AVAILABLE**
 <img src="https://github.com/weslen02/watson_assistant_err/blob/main/img/err2.jpeg" alt="Web Chat Integration disabling security from Web Chat">
+
+Now you can see the Watson Assistant working on your website
+<img src="https://github.com/weslen02/watson_assistant_err/blob/main/img/err3.jpeg" alt="Web Chat Integration disabling security from Web Chat">
+
