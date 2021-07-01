@@ -8,7 +8,7 @@ there was an error communicating with watson assitant
 
 
 ### Probable cause:
-You are working on an HTTP request, not secure.
+You are working on an HTTP request not secure.
 
 ### Solution:
 Change your request to HTTPS
